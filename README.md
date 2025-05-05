@@ -1,4 +1,4 @@
-![My Leetcode Stats](https://leetcard.jacoblin.cool/nkrll)
+![My Leetcode Stats](https://leetcard.jacoblin.cool/nkrll?ext=heatmap)
 
 <!--
 **nkrll/nkrll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
