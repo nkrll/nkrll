@@ -1,4 +1,4 @@
-## Sometimes I'm Practicing On LeetCode
+## Sometimes I Practice LeetCode
 ![My Leetcode Stats](https://leetcard.jacoblin.cool/nkrll?ext=heatmap)
 
 <!--
